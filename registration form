@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        <script src="js/bootstrap.min.js"></script>
+    </head>
+    <body>
+        <div class=" container"></div>
+        <div class="row"></div>
+        <u><h1>REGISTRATION FORM</h1></u>
+        <table="center" cellpadding="10"></table>
+        
+    </body>
+</html>
